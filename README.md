@@ -1,45 +1,22 @@
 ## シンプル習慣帳のプライバシーポリシー
 
-- 項目
-内容をここに書いていく感じで
+### シンプル習慣帳におけるユーザーの個人情報の取扱いについては，以下のように扱います。
 
+1. 情報収集の目的  
+アプリ内で特定の時間に通知を発生させるために、ユーザーが入力した時間の情報をアプリ内で保持しておきます。  
+また、今後の機能の改良のためにも、アプリの使用状況や使用端末などの情報を収集します。
 
+2. 当アプリで収集しない情報  
+特定の個人を特定できる以下のような情報は当アプリにおいては取り扱いません。  
+- ユーザーの名前
+- 住所
+- 電話番号
+- メールアドレス
+- クレジットカード
 
+3. プライバシーポリシーの変更について  
+本ポリシーの内容は，法令その他本ポリシーに別段の定めのある事項を除いて，ユーザーに通知することなく，変更することができるものとします。
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hideri777/SimpleHabitMemoPrivacyPolicy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hideri777/SimpleHabitMemoPrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. お問い合わせ
+アプリに関してご不明点などあれば作者のツイッターにご連絡ください。  
+[Twitter](https://twitter.com/hideri777)
